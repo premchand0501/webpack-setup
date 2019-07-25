@@ -1,0 +1,15 @@
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css');
+@import './assets/sass/variables';
+@import './assets/sass/app';
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: sans-serif;
+}
+.btn{
+  text-transform: uppercase;
+  font-weight: 500;
+}
